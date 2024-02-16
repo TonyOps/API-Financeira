@@ -1,5 +1,14 @@
 ### API Financeira
-<P>Construí uma API financeira que contém recursos como cadastro de conta, validação de CPF, listagem do extrato, validação da conta, e utilizo middlewares para realizar depósitos, saques na conta, listar o extrato bancário por data, atualizar a conta e remover conta. Utilizo também métodos como GET, POST, PUT e DELETE.</P>
+<P>Construí uma API financeira completa, utilizando o Node.js, que oferece uma gama de recursos essenciais para gerenciamento de contas bancárias. Desde o cadastro de contas até a validação de CPF, cada aspecto foi desenvolvido para garantir eficiência e segurança.
+
+Resumo da aplicação:
+
+   <ul>
+     <li>Criei ações que são extremamente usadas diariamente no que diz respeito à manipulação de dados no back end.</li>
+     <li>Implementei middlewares personalizados para facilitar operações como depósitos, saques e atualizações de conta.</li>
+     <li>Consegui elaborar a API de fácil entendimento, com um código limpo e totalmente intuitivo.</li>
+   </ul>    
+</P>
 
 ### Requisitos
 
