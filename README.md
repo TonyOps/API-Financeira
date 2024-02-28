@@ -4,9 +4,9 @@
 Resumo da aplicação:
 
    <ul>
-     <li>Criei ações que são extremamente usadas diariamente no que diz respeito à manipulação de dados no back end.</li>
-     <li>Implementei middlewares personalizados para facilitar operações como depósitos, saques e atualizações de conta.</li>
-     <li>Consegui elaborar a API de fácil entendimento, com um código limpo e totalmente intuitivo.</li>
+     <li>Utilizei os métodos HTTP GET, PUT, POST e DELETE para criar usuários, buscar extratos, realizar alterações e apagar contas.</li>
+     <li>Implementei middlewares personalizados para melhor comunicação com outras aplicações.</li>
+     <li>Preocupei-me em seguir os padrões do Clean Code ao aplicar os princípios SOLID no projeto.</li>
    </ul>    
 </P>
 
